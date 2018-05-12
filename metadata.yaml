@@ -1,0 +1,45 @@
+_repo: Ges-nge-und-Inschriften_37108
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Landauer, Gustav
+    birthdate: 1870
+    deathdate: 1919
+    gutenberg_agent_id: '38653'
+    url: http://www.gutenberg.org/2009/agents/38653
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2011-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37108'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- Translations into German'
+tableOfContents: Einleitung -- Das Selbst sing ich -- Als ich schweigend brütete --
+  In engen Schiffen zur See -- An fremde Lande -- An einen Historiker -- Den Staaten
+  -- An eine Sängerin -- Schließt eure Türen nicht -- Künftige Dichter -- An Dich
+  -- Ausgehend von Paumanok -- Der Grundstein aller Metaphysik -- Ich sah in Louisiana
+  eine Eiche wachsen – -- Salut au monde! -- Lied der Landstraße -- Ich sitze und
+  schaue -- Als ich lag, meinen Kopf in Deinem Schoß, Camerado -- Leb wohl, Soldat –
+  -- Wende dich, Freiheit – -- Heimkehr der Helden -- Der mystische Trompeter -- Wandl
+  ich durch die breit majestätischen Tage -- Helle Mitternacht -- Jahre des Modernen
+  -- Staub toter Soldaten -- Dank in hohem Alter.
+title: Gesänge und Inschriften
+url: http://www.gutenberg.org/ebooks/37108
